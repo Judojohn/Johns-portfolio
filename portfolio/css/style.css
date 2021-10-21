@@ -1,0 +1,45 @@
+/* John Farrelly, 11/09/2021 */
+
+body {
+
+  background-image: url("https://wallpaperaccess.com/full/3021522.jpg");
+}
+
+p {
+  border: solid 1px;
+  padding: 20px;
+  background-color: rgba(255, 99, 71, 0.4);
+  margin: 60px;
+  color: rgba(128, 128, 128, 0.267) (11, 11, 170);
+  font-family: Arial, Helvetica, sans-serif ;
+  margin-left:10%;
+  margin-right: 50%;
+}
+
+h1 {
+  color: black;
+  font-family: Arial, Helvetica, sans-serif ;
+  margin-left:20%;
+}
+h2 {
+
+  color: black;
+  font-family: Arial, Helvetica, sans-serif ;
+  margin-left:20%;
+}
+
+cite {
+  margin-left:20%;
+}
+
+ul {
+  margin-left:20%;
+}
+
+ol {
+  margin-left:20%;
+}
+
+dl {
+  margin-left:20%;
+}
